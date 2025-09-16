@@ -37,6 +37,10 @@ cd icebreaker-game
 
 ### 2. Install dependencies
 Python 3.9+
+```bash
+pip install -r requirements.txt
+```
+
 
 ### 3. Simply run the script
 ```bash
