@@ -45,3 +45,7 @@ The app will start and open in your browser at:
 ```bash
 http://127.0.0.1:7860
 
+
+### 4. Screenshot of the APP
+![Demo Screenshot](images/demoscreenshot.png)
+
