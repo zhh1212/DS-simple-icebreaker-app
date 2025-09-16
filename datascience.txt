@@ -1,0 +1,10 @@
+Which data visualization library do you use most often, and why?
+What’s the difference between supervised and unsupervised learning? Can you give examples of each?
+How would you explain regularization (L1/L2) to someone new?
+What’s the difference between bagging and boosting?
+How do you handle imbalanced datasets?
+Why might accuracy not be a good measure for certain tasks?
+What’s your go-to algorithm for a quick baseline model?
+Name some of your favorite libraries that you used a lot.
+What’s the role of activation functions in neural networks?
+What’s the difference between parametric and non-parametric models?
