@@ -33,6 +33,7 @@ A fun **Gradio web app** for hosting icebreaker sessions with data science stude
 ```bash
 git clone https://github.com/yourusername/icebreaker-game.git
 cd icebreaker-game
+```
 
 ### 2. Install dependencies
 Python 3.9+
@@ -40,11 +41,12 @@ Python 3.9+
 ### 3. Simply run the script
 ```bash
 python app.py
+```
 
 The app will start and open in your browser at:
 ```bash
 http://127.0.0.1:7860
-
+```
 
 ### 4. Screenshot of the APP
 ![Demo Screenshot](demoscreenshot.png)
