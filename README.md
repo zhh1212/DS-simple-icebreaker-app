@@ -47,5 +47,5 @@ http://127.0.0.1:7860
 
 
 ### 4. Screenshot of the APP
-![Demo Screenshot](images/demoscreenshot.png)
+![Demo Screenshot](demoscreenshot.png)
 
